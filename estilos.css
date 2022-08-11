@@ -1,0 +1,26 @@
+header{
+    text-align: center;
+}
+img{
+    border-radius: 50%;
+    border: 6px solid black;
+    width: 180px;
+    }
+    .titulo{
+        font-size: 38px;
+        color:darkmagenta;
+    }
+    .subtitulo{
+        font-size: 28px;
+        color: darkorchid;
+    }
+    .contato{
+        font-size: 18px;
+        font-family: Arial;
+        font-weight: bold;
+        line-height: 150%;
+    }
+    body{
+        background-color: gainsboro;
+    }
+    
